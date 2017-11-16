@@ -8,7 +8,7 @@
 #
 # Author: Chris Tzatzakis
 # Date: Winter 2008
-#
+# 
 # Make a new high score 
 function makenewhighscore { 
 	HIGHSCORE_FILE="highscores.txt"
