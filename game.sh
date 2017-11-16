@@ -4,7 +4,7 @@
 #
 # To play the game type ./game in the terminal.
 #
-# This game reads a dictionary.txt and a highscores.txt in the same directory as the hangman script.
+# This game reads a dictionary.txt and a highscores.txt in the same directory as the game script.
 #
 # Author: Chris Tzatzakis
 # Date: Winter 2008
