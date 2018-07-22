@@ -6,7 +6,7 @@ H A N G M A N - A game written for educational purposes during my linux learning
 
 ## Installing
 This game reads a dictionary.txt and a highscores.txt in the same directory as the game script.
-To play the game open a terminal at games folder and type: 
+To play the game open a terminal at game folder and type: 
 ```
 ./game 
 ```
